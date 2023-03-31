@@ -7,7 +7,11 @@ The data has been obtained through experimentally validated numerical simulation
 The nomenclature of the data is provided as follows:
 
 G - Solar irradiance
+
 v - Wind speed
+
 Ta - Air temperature
+
 P_PV-TE - PV-TE power output
+
 N_PV-TE - PV-TE efficiency
